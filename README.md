@@ -1,4 +1,4 @@
-### Welcome, Bienvenue, Herzlich willkommen 👋👋👋   
+### Welcome - Bienvenue - Herzlich willkommen 👋👋👋   
    
 My name is Ngoc-Tan Pham. I'm a student in Computer Science major.   
 - 🌱 I’m currently studying at [University of Information Technology - Vietnam National University (UIT - VNU-HCM)](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)   
