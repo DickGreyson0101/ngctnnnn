@@ -8,3 +8,4 @@ My name is Ngoc-Tan Pham. I'm a student in Computer Science major.
 - 📫 Contact me via:   
   +  📫 Facebook: [Tan Pham Ngoc](https://www.facebook.com/ngctn.phm)
   +  📫 Mail: [19520925@gm.uit.edu.vn](mailto:19520925@gm.uit.edu.vn) or [ngctnnnn@gmail.com](mailto:ngctnnnn@gmail.com)   
+  +  📫 LinkedIn: [Ngoc Tan](https://www.linkedin.com/in/ngoc-tan-5696461b4)
