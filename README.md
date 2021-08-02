@@ -22,5 +22,5 @@ My name is <a href="mailto:ngctnnnn@gmail.com" color='#000000'>Tan Ngoc Pham</a>
 <br />
 <br />
 
-[facebook]: https://facebook.com/ngctnnnn
+[facebook]: https://facebook.com/ngctnnnnn
 [linkedin]: https://linkedin.com/ngctnnnn
