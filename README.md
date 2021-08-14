@@ -1,5 +1,5 @@
 ### Welcome - Bienvenue - Herzlich willkommen 👋👋👋         
-My name is <a href="mailto:ngctnnnn@gmail.com" color='#000000'>Tan Ngoc Pham</a>. I'm a sophomore student in Computer Science major.   
+My name is <a href="mailto:ngctnnnn@gmail.com" color='#000000'>Tan Ngoc Pham</a>. I'm a junior student in Computer Science major.   
 - 🌱 I’m currently studying Computer Science at <a href="https://en.uit.edu.vn/overview-vnuhcm-university-information-technology"> University of Information Technology - VNU HCM </a>
 - 🌱 I'm currently working as Chapter lead at <a href="https://dsc.community.dev/university-of-information-technology-vnu-hcm">Google Developer Student Club - University of Information Technology</a> 
 - 🌱 I have proficient knowledge in `Competitive programming` `Data Science` `Artificial Intelligence`    
