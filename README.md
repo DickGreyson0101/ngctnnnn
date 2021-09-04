@@ -12,4 +12,7 @@ My name is <a href="mailto:ngctnnnn@gmail.com" color='#000000'>Tan Ngoc Pham</a>
 
 [facebook]: https://facebook.com/ngctnnnnn
 [linkedin]: https://linkedin.com/in/ngctnnnn
+<div align="center">
+  
 <img src="https://github-readme-stats.vercel.app/api?username=ngctnnnn&&show_icons=true">
+  </div>
