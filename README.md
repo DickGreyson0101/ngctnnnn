@@ -5,7 +5,8 @@ My name is <a href="mailto:ngctnnnn@gmail.com" color='#000000'>Tan Ngoc Pham</a>
 - Founder/Blogger @ <a href="https://ngctnnnn.github.io"> A technical blog </a>
 
 <div align='center'>
-  <img src="https://github.com/RandomThings23/RandomThings23/blob/main/img/banner.gif">
+<!--   <img src="https://github.com/RandomThings23/RandomThings23/blob/main/img/banner.gif"> -->
+  <img src="https://raw.githubusercontent.com/AkhileshThite/3D-Donut/main/output.gif">
 </div>
   
 ### Connect with me   
