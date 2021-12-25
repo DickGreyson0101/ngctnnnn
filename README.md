@@ -15,11 +15,7 @@ My name is <a href="mailto:ngctnnnn@gmail.com" color='#000000'>Tan Ngoc Pham</a>
 [<img align="left" alt="ngctnnnn | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>][facebook]
 [<img align="left" alt="ngctnnnn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-  
-  <div align='center'>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngctnnnn)](https://github.com/ngctnnnn)
-  </div>
+
 
 <br />
 <br />
