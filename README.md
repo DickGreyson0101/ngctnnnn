@@ -1,5 +1,6 @@
-### Welcome - Bienvenue - Herzlich willkommen 👋👋👋         
-My name is <a href="mailto:ngctnnnn@gmail.com" color='#000000'>Tan Ngoc Pham</a>       
+### Welcome - Bienvenue - Herzlich willkommen 👋👋👋        
+
+Bonjour et bienvenue dans mon monde, my name is <a href="mailto:ngctnnnn@gmail.com" color='#000000'>Tan Ngoc Pham</a>       
 - Junior Computer Science student @ <a href="https://en.uit.edu.vn/overview-vnuhcm-university-information-technology"> University of Information Technology - VNU HCM </a>
 - CEO @ <a href="https://gdsc-uit.org"> Google Developer Student Clubs - University of Information Technology </a>
 - Founder/Blogger @ <a href="https://ngctnnnn.github.io"> A technical blog </a>
