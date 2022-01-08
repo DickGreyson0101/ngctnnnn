@@ -4,25 +4,22 @@
 <img align="right" alt="GIF" height="300px" src="https://raw.githubusercontent.com/Tommy-Ngx/BML_data/main/tommy.gif"/>
 </div>
 
-### Connect with me   
-[<img align="left" alt="ngctnnnn | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>][facebook]
-[<img align="left" alt="ngctnnnn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-
-<br />
-<br />
-
-[facebook]: https://facebook.com/ngctnnnnn
-[linkedin]: https://linkedin.com/in/ngctnnnn
-
-
-
 
 Bonjour et bienvenue dans mon monde, my name is <a href="mailto:ngctnnnn@gmail.com" color='#000000'>Tan Ngoc Pham</a>       
 - Junior Computer Science student @ <a href="https://en.uit.edu.vn/overview-vnuhcm-university-information-technology"> University of Information Technology - VNU HCM </a>
 - CEO @ <a href="https://gdsc-uit.org"> Google Developer Student Clubs - University of Information Technology </a>
 - Founder/Blogger @ <a href="https://ngctnnnn.github.io"> A technical blog </a>
+
+
+### Connect with me   
+[<img align="left" alt="ngctnnnn | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>][facebook]
+[<img align="left" alt="ngctnnnn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+<br />
+
+[facebook]: https://facebook.com/ngctnnnnn
+[linkedin]: https://linkedin.com/in/ngctnnnn
 
 
 ### ⚙ Languages, Tools, and Platforms:
@@ -35,6 +32,9 @@ Bonjour et bienvenue dans mon monde, my name is <a href="mailto:ngctnnnn@gmail.c
 <!-- <img align="left" alt="Spyder" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg"/> -->
 <img align="left" alt="Colaboratory" width="26px" src="https://miro.medium.com/max/512/0*ffbATxpDRokOBXzE.png"/>          
 </br>
+
+
+<br />
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ngctnnnn&" alt="ngctnnnn" /></p>
 
