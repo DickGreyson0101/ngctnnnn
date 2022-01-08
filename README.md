@@ -36,10 +36,8 @@ Bonjour et bienvenue dans mon monde, my name is <a href="mailto:ngctnnnn@gmail.c
 <img align="left" alt="Colaboratory" width="26px" src="https://miro.medium.com/max/512/0*ffbATxpDRokOBXzE.png"/>          
 </br>
 
-<center>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ngctnnnn&" alt="ngctnnnn" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ngctnnnn&" alt="tommy-ngx" /></p>
-</center>
 
 
   
