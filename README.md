@@ -33,7 +33,8 @@ Bonjour et bienvenue dans mon monde, my name is <a href="mailto:ngctnnnn@gmail.c
 <img align="left" alt="scikit_learn" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
 <!-- <img align="left" alt="Spyder" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg"/> -->
 <img align="left" alt="Colaboratory" width="26px" src="https://miro.medium.com/max/512/0*ffbATxpDRokOBXzE.png"/>          
-<img align="left" alt="Docker" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png"
+<img align="left" alt="Docker" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png"/>
+
 </br>
 
 
