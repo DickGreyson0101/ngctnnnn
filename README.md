@@ -14,13 +14,14 @@ Bonjour et bienvenue dans mon monde, my name is <a href="mailto:ngctnnnn@gmail.c
 ### Connect with me   
 [<img align="left" alt="ngctnnnn | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>][facebook]
 [<img align="left" alt="ngctnnnn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ngctnnnn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 
 <br />
 
 [facebook]: https://facebook.com/ngctnnnnn
 [linkedin]: https://linkedin.com/in/ngctnnnn
-
+[twitter]: https://twitter.com/ngctnnnn
 
 ### ⚙ Languages, Tools, and Platforms:
 
