@@ -40,8 +40,10 @@ Bonjour et bienvenue dans mon monde, my name is <a href="mailto:ngctnnnn@gmail.c
 
 <br />
 
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ngctnnnn&" alt="ngctnnnn" /></p>
 
+<p align='center'><img src="/profile-3d-contrib/profile-green-animate.svg" alt="c" /></p>
 
 
   
