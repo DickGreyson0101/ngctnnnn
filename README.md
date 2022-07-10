@@ -10,7 +10,6 @@ Bonjour et bienvenue dans mon monde, je m'appelle <a href="mailto:ngctnnnn@gmail
 - Teaching assistant @ <a href="https://en.uit.edu.vn/overview-vnuhcm-university-information-technology"> University of Information Technology - VNU HCM </a>
 - CEO @ <a href="https://gdsc-uit.org"> Google Developer Student Clubs - University of Information Technology </a>
 - Research intern @ [ELO Lab](https://github.com/ELO-Lab/)
-- Founder/Blogger @ <a href="https://ngctnnnn.github.io"> A technical blog </a>
 
 
 ### Connect with me   
