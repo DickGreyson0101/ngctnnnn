@@ -9,6 +9,7 @@ Bonjour et bienvenue dans mon monde, je m'appelle <a href="mailto:ngctnnnn@gmail
 おはようございます、私は<a href="mailto:ngctnnnn@gmail.com" color='#000000'>Tan Ngoc Pham</a>です　　　　　　
 - Teaching assistant @ <a href="https://en.uit.edu.vn/overview-vnuhcm-university-information-technology"> University of Information Technology - VNU HCM </a>
 - CEO @ <a href="https://gdsc-uit.org"> Google Developer Student Clubs - University of Information Technology </a>
+- Founder & CEO @ [Thoth Lab](https://github.com/thoth-ml)
 - Research intern @ [ELO Lab](https://github.com/ELO-Lab/)
 
 
