@@ -1,7 +1,7 @@
 ### Welcome - Bienvenue - Herzlich willkommen 👋👋👋        
 
 <div>
-<img align="right" alt="GIF" height="300px" src="https://raw.githubusercontent.com/Tommy-Ngx/BML_data/main/tommy.gif"/>
+<img align="right" alt="GIF" style="width: 40vw; min-width: 300px;" src="https://raw.githubusercontent.com/Tommy-Ngx/BML_data/main/tommy.gif"/>
 </div>
 
 Welcome to my world, my name is <a href="mailto:ngctnnnn@gmail.com" color='#000000'>Tan Ngoc Pham</a>    
