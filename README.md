@@ -4,13 +4,14 @@
 <img align="right" alt="GIF" style="width: 40vw; min-width: 300px;" src="https://raw.githubusercontent.com/Tommy-Ngx/BML_data/main/tommy.gif"/>
 </div> -->
 
-Welcome to my world, my name is <a href="mailto:ngctnnnn@gmail.com" color='#000000'>Tan Ngoc Pham</a>    
+Welcome to my world, my name is <a href="mailto:ngctnnnn@gmail.com" color='#000000'>Tan Ngoc Pham, MS, BSc.</a>    
 Bonjour et bienvenue dans mon monde, je m'appelle <a href="mailto:ngctnnnn@gmail.com" color='#000000'>Tan Ngoc Pham</a>  
-おはようございます、私は<a href="mailto:ngctnnnn@gmail.com" color='#000000'>Tan Ngoc Pham</a>です　　　　　　
-- Teaching assistant @ <a href="https://en.uit.edu.vn/overview-vnuhcm-university-information-technology"> University of Information Technology - VNU HCM </a>
-- CEO @ <a href="https://gdsc-uit.org"> Google Developer Student Clubs - University of Information Technology </a>
+おはようございます、私は<a href="mailto:ngctnnnn@gmail.com" color='#000000'>Tan Ngoc Pham</a>です
 - Founder & CEO @ [Thoth Lab](https://github.com/thoth-ml)
-- Research intern @ [ELO Lab](https://github.com/ELO-Lab/)
+- Embedded AI Research Engineer @ [National Key Laboratory of Digital Control and System Engineering](http://dcselab.edu.vn/)
+- Teaching assistant @ <a href="https://en.uit.edu.vn/overview-vnuhcm-university-information-technology"> University of Information Technology - VNU HCM </a>
+- Former Google Developer Student Clubs Lead @ [Google](https://about.google/)
+- Former AI Researcher intern @ [ELO Lab](https://github.com/ELO-Lab/)
 
 
 ### Connect with me   
